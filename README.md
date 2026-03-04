@@ -2,9 +2,10 @@
 
 M.S. student and graduate researcher focused on **Multimodal Large Language Models (MLLMs)**.
 
+- Affiliation: University of Hawaii at Manoa
 - Research interests: vision-language alignment, multimodal evaluation, efficient adaptation
 - Current focus: data curation pipelines, lightweight benchmarking, and inference routing
-- Location: Beijing, China
+- Location: Honolulu, Hawaii, USA
 - Contact: yuqu@hawaiian.top
 
 ## Growth (Last 1-2 Years)
